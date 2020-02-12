@@ -30,3 +30,6 @@ JOe SPOT
 Twitter: <a href="https://twitter.com/hackerfreedomx"></a>&nbsp;
 contact: <a href="jackie_green_wifi@yahoo.com">jackie_green_wifi@yahoo.com</a><br>
 
+***
+Jackie Green Email jackie_green_wifi@yahoo.com
+***
