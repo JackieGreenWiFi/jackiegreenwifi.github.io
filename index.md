@@ -21,13 +21,11 @@ If you have contacted me, please contact me at the email address below!<br>
 
 
 ---
-JOe SPOT Project<br>
+JOe SPOT Project
 We are always developing
 with Raspberry Pi at
 Tokyo University of Science! 
 
-JOe SPOT 
-Twitter: <a href="https://twitter.com/hackerfreedomx"></a>&nbsp;
-contact: <a href="jackie_green_wifi@yahoo.com">jackie_green_wifi@yahoo.com</a><br>
+
 
 
