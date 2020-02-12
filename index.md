@@ -1,6 +1,6 @@
 #Jackie
 
-![hello](1.gif) 
+![hello](1.jpg) 
 
 E-Mail: jackie_green_wifi * at * yahoo.com
 Please change * at * to @ and email
