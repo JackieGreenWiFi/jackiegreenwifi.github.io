@@ -2,28 +2,63 @@
 
 ![hello](1.jpg) 
 
-E-Mail: jackie_green_wifi * at * yahoo.com
-Please change * at * to @ and email
+
+ 
+---
+私は様々な社会課題を"ART AND TECHNOLOGY"を使って解決するプロジェクトを行っているTUSの物理学科の学生です。
+「カンボジアSTEAM教育Projects」研究グループを率いています。
+「カンボジアSTEAM教育Projects」は、インターネットに繋がらない発展途上国で”ネットワークの学習や高等教育”を学習できる”Study UP SPOT!"をRaspberry Piで開発しています。
+
+** ※例えば著作権フリーのPDFの本の電子図書館を開発しました。 **
+
+#　私のアイディアやプロジェクトの詳細
+*　経歴（今までの活動）
+*　プロジェクト
+*　Want to 夢／活動課題
+*　イベント／plans
+*　ブログ
+
+---
+
+私は、SDGsの問題をARTとTECHNOLOGYを使って問題解決に取り組んでいます。私は、教育問題に興味があります。特に興味のある分野は「発展途上国の教育問題」・「発展途上国の医療問題」・「環境問題」などに興味があり解決したいと考えています。
+
+# ∇NOW JO SPOT ← 2018 PowIs ← 2017 ENERGY GRID 
+
+** (1)ENERGY GRID 2017 **
+2017年、私は大学一年生のとき、ビジネスアイディアコンテストに出場しました。その時のテーマは、「エネルギー問題の解決」でした。私の所属するチームは、ミャンマーで電動アシスト自転車とソーラーパネルを使って電力供給インフラの構築を提案しました。
+
+チーム名：ENERGY GRID
+プロジェクト名：PowIs Project
 
 
-*************
-I am a Raspberry Pi (information and communication infrastructure project) such as<br>
-JOe SPOT Project at Tokyo University of Science.It is a student who provides educational<br><br>
-support using.In December 2019, I went to a high school in Cambodia and did a JOe SPOT<br>
-electronic library and IT class.JOe SPOT is developing gIndependent Distributed Information WiFi
-and connecting to the Internet in developing countries.We are also conducting a project to 
-support the spread of IT education in areas where access is not possible.<br>
-
-My dream and goal is to solve the SDGs challenges and problems using ART and Technology.
-
-If you have contacted me, please contact me at the email address below!<br>
+"PowIs"の由来は"Power"、"island"の単語をつなげて"PowIs　Project"にしました。
 
 
-*************
-JOe SPOT Project
-We are always developing
-with Raspberry Pi at
-Tokyo University of Science! 
+** (2)PowIs 2018 **
+2018年、チーム名を"ENERGY GRID"から"PowIs"に変えました。PowIs Projectを実現するためミャンマーに現地調査に行きました。現地調査では電力供給以外にも「医療」や「教育」、「インフラ」についても調査しました。
+
+
+** (3)JO SPOT 2020 **
+2019年、2020年東京オリンピックのときのインターネット接続のトラフィック量の増加を予想し、コンテンツオフロードを提案しました。そのWiFi SPOTの名前を"JO SPOT"にしました。JO SPOTの実証実験を2019年東京理科大学のオープンキャンパスで行い成功しました。JO SPOTをカンボジアの教育向けに改良し、「Study SPOT」としてカンボジアで著作権フリーのPDFの本を提供しました。今後は、新しいLMSの開発に取り組んでいる。3月にカンボジアでプロジェクト予定。
+
+
+
+プロジェクトの詳細は→ I'm Here!!
+
+---
+Jackie Green
+TUS Tokyo University of Science
+JO SPOT
+
+jackie_green_wifi at yahoo.com
+
+活動の写真ここにあります→
+   PHOTO
+
+
+
+
+
 
 
 
