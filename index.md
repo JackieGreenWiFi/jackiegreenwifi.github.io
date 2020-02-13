@@ -46,7 +46,7 @@ __(3)JO SPOT 2020__　　
 プロジェクトの詳細は→ I'm Here!!
 
 ---
-Jackie Green
+Jackie Green   
 TUS Tokyo University of Science
 JO SPOT
 
