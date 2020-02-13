@@ -60,7 +60,7 @@ JO SPOT
 jackie_green_wifi at yahoo.com
 
 活動の写真ここにあります→
-   PHOTO
+   [PHOTO](page5.md)
 
 
 
