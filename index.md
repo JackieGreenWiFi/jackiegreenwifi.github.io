@@ -6,8 +6,7 @@ E-Mail: jackie_green_wifi * at * yahoo.com
 Please change * at * to @ and email
 
 
-
----
+*************
 I am a Raspberry Pi (information and communication infrastructure project) such as<br>
 JOe SPOT Project at Tokyo University of Science.It is a student who provides educational<br><br>
 support using.In December 2019, I went to a high school in Cambodia and did a JOe SPOT<br>
@@ -20,7 +19,7 @@ My dream and goal is to solve the SDGs challenges and problems using ART and Tec
 If you have contacted me, please contact me at the email address below!<br>
 
 
----
+*************
 JOe SPOT Project
 We are always developing
 with Raspberry Pi at
