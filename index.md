@@ -13,7 +13,7 @@
 __※例えば著作権フリーのPDFの本の電子図書館を開発しました。__
 
 __私のアイディアやプロジェクトの詳細__
-- <font color="Blue">[経歴と今までの活動]</font>(page1.md)
+- [<font color="Blue">経歴と今までの活動]</font>(page1.md)
 - [プロジェクト](page2.md)
 - [Want to 夢／活動課題](page3.md)
 - [イベント／plans](page4.md)
