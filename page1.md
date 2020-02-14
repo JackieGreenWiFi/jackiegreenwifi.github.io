@@ -13,7 +13,7 @@
 チーム名：ENERGY GRID
 プロジェクト名：PowIs Project
 
-
+  
 "PowIs"の由来は"Power"、"island"の単語をつなげて"PowIs　Project"にしました。
 
 課題：エネルギー問題
