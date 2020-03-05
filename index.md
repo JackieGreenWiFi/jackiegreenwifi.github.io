@@ -7,8 +7,7 @@
  
 ---
 # サイトマップ
-https://github.com/JackieGreenWiFi/Jackie_docs/edit/master/README.md
-
+[Footprint](https://jackiegreenwifi.github.io/Jackie_docs/)
 
 
 # ∇2020←2019←2018←2017
