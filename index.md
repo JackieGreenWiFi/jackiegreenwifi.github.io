@@ -24,8 +24,8 @@ lang: ja_JP
 __※例えば著作権フリーのPDFの本の電子図書館を開発しました。__
 
 __私のアイディアやプロジェクトの詳細__
-- [<font color="Blue">経歴と今までの活動</font>](page1.md)
-- [プロジェクト](page2.md)
+- [経歴と今までの活動](page1.md)
+- [プロジェクト](https://jackiegreenwifi.github.io/Jackie_docs/)
 
 
 ---
@@ -40,13 +40,9 @@ __私のアイディアやプロジェクトの詳細__
 現在は、情報系の特許と情報系の論文、そして教育工学の論文を目標としています。
 それから、地球の環境問題にも興味があり、メールサーバーのCO2の問題など情報系と環境問題について考えています。（詳細は後ほど書きます）
 
-
-
-プロジェクトの詳細は→ I'm Here!!
-
 ---
-Jackie Green   
-TUS Tokyo University of Science
+Jackie Green   <br>
+TUS Tokyo University of Science<br>
 JO SPOT
 
 jackie_green_wifi at yahoo.com
