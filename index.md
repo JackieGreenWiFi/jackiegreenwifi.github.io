@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jackie Green WiFi
-description: Jackie Green WiFi Spot 
+description: "JO SPOT",独立的分散型情報WiFiインフラ,発展途上国支援,教育支援,ART AND TECHNOLOGY, WiFi 
 lang: ja_JP
 ---
 # Jackie GReen!
