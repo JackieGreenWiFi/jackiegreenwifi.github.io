@@ -1,5 +1,11 @@
+---
+layout: default
+title: Jackie Green WiFi
+description: Jackie Green WiFi Spot 
+lang: ja_JP
+---
 # Jackie GReen!
-<title>Jackie Green WiFi</title>
+
 ![hello](1.jpg) 
 ![HELLO](10.png)
 
