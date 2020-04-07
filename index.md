@@ -18,7 +18,7 @@ __※例えば著作権フリーのPDFの本の電子図書館を開発しまし
 
 __私のアイディアやプロジェクトの詳細__
 - [経歴と今までの活動](page1.md)
-- [プロジェクト](https://jackiegreenwifi.github.io/jackiewiki/)
+- [プロジェクト](https://jackiewiki.github.io/)
 
 
 ---
