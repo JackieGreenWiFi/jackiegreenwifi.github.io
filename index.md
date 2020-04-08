@@ -6,7 +6,11 @@
 
  
 ---
+# ∇2020 ← 2019 ← 2018 ← 2017
 
+ I am a student in the physics department of TUS, who is working on a project to solve various social issues using “ART AND TECHNOLOGY”.  He leads the “Cambodia STEAM Education Projects” project group.  “Cambodia STEAM Education Projects” is developing “Study UP SPOT!” On Raspberry Pi, which allows you to learn “network learning and higher education” in developing countries without internet connection.
+
+ * For example, we have developed a digital library of copyright-free PDF books.
 
 
 # ∇2020←2019←2018←2017
