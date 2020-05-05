@@ -61,7 +61,7 @@ Step2ユーザーは電動アシスト自転車に乗り、ポールに行きバ
 コンテンツをオフロードする。
 インターネットに上がっているコンテンツをWiFi APをサーバー化しコンテンツオフロードすることで接続の混雑を回避できるという提案です。
 
-詳細は古いHP→[masatoyoshi.github.io](masatoyoshi.github.io)
+詳細は古いHP→[masatoyoshi.github.io](https://masatoyoshi.github.io)
    
    
 **JO SPOT for Education**   
