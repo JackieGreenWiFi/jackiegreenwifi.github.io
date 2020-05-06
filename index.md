@@ -28,6 +28,7 @@ I am interested in social issues and am working on solving them using technology
 __私のアイディアやプロジェクトの詳細__
 - [今までの活動](page1.md)
 - [プロジェクト](https://jackiegreenwifi.github.io/jackiewiki/)
+  
 ---
 **Contact**  
 Email:jackie_green_wifi@yahoo.com
