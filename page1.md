@@ -1,5 +1,4 @@
-# 経歴と今までの活動
-経歴と今までの活動
+# Past activities
 
 # ∇NOW JO SPOT ← 2018 PowIs ← 2017 ENERGY GRID 
 
