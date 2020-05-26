@@ -12,7 +12,7 @@
 ---
 **Jackie Green**
 
-<img src="1.jpeg" width="30%" hight="30%">
+<img src="2.jpeg" width="30%" hight="30%">
 
 **Email: jackie_green_wifi@yahoo.com**
 
