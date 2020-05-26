@@ -1,16 +1,18 @@
 # I'm here
 <!--
 ![hello](1.jpeg) 
--->
+
 <center>
 <img src="1.jpeg" width="30%" hight="30%">
- </center>
+ </center>-->
 ![HELLO](10.png)
 
 
  
 ---
 **Jackie Green**
+
+<img src="1.jpeg" width="30%" hight="30%">
 
 **Email: jackie_green_wifi@yahoo.com**
 
