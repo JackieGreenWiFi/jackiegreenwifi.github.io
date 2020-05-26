@@ -1,7 +1,10 @@
 # I'm here
-
-![hello](.jpeg) 
+<!--
+![hello](1.jpeg) 
+-->
+<center>
 <img src="1.jpeg" width="50%" hight="50%">
+ </center>
 ![HELLO](10.png)
 
 
