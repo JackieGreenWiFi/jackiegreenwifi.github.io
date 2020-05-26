@@ -1,7 +1,7 @@
 # I'm here
 
 ![hello](.jpeg) 
-<img src="1.jpeg", width="50%", hight="50%">
+<img src="1.jpeg" width="50%" hight="50%">
 ![HELLO](10.png)
 
 
