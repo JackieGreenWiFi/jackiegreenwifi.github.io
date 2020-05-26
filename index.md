@@ -3,7 +3,7 @@
 ![hello](1.jpeg) 
 -->
 <center>
-<img src="1.jpeg" width="50%" hight="50%">
+<img src="1.jpeg" width="30%" hight="30%">
  </center>
 ![HELLO](10.png)
 
