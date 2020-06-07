@@ -14,11 +14,12 @@ JO SPOT Jackie Green
 
  
 ---
+##Cloud innovator
 **Jackie Green**
 
 <img src="2.jpeg" width="30%" hight="30%">
 
-**Email: jackie_green_wifi@yahoo.com**
+**Email: jackieg25@mail.ru**
 
 I am interested in social issues and am working on solving them using technology.  So far, for example, in order to solve a few problems in Cambodian libraries, I made an electronic library of copyright-free books with Raspberry Pi and conducted a project at a Cambodian high school.  In this way, we are working to solve social issues using technology.  
 
@@ -46,7 +47,7 @@ I am interested in social issues and am working on solving them using technology
   
 ---
 **Contact**  
-Email:jackie_green_wifi@yahoo.com
+Email: jackieg25@mail.ru  
 
 
 活動の写真ここにあります→
