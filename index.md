@@ -14,7 +14,7 @@ JO SPOT Jackie Green
 
  
 ---
-##Cloud innovator
+## Cloud innovator 
 **Jackie Green**
 
 <img src="2.jpeg" width="30%" hight="30%">
