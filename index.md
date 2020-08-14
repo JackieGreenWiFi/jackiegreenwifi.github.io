@@ -17,7 +17,7 @@ JO SPOT Jackie Green
 ## Cloud innovator 
 **Jackie Green**
 
-<img src="2.jpeg" width="30%" hight="30%">
+
 
 **Email: jackieg25@mail.ru**
 
