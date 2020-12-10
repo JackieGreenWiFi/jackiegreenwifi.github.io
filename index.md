@@ -13,7 +13,7 @@ Homepage is being renewed
 - [Past activities](page1.md)
 - [Projects](https://jackiegreenwifi.github.io/jackiewiki/)
 
-
+<br><br>
 **About Projects**
    - [Book Spot in Cambodia(JO SPOT for Education)2019-2020](https://jackiegreenwifi.github.io/jackiewiki/page6.html)
    - [ JO SPOT in Tokyo 2018-2019](https://jackiegreenwifi.github.io/jackiewiki/page2.html)  
@@ -23,7 +23,8 @@ Homepage is being renewed
  <font size="3" color="#ff00ff">
 Contact
 </font>
-Email: rui.space@protonmail.ch
+**Email: rui.space@protonmail.ch**
+**Twitter: @RuiMST
 
 
 There are Photo→
