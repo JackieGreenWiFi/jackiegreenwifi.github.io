@@ -26,7 +26,7 @@ Homepage is being renewed
 <b>Contact</b>
 </font>
 **Email: rui.space@protonmail.ch**  
-**Twitter: @RuiMST**
+**Twitter: @RuiMST**  
 **Vlog: [https://jackiegreen.hatenablog.com/]（https://jackiegreen.hatenablog.com/）
 
 
