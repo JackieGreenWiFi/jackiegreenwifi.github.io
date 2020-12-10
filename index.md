@@ -20,9 +20,10 @@ Homepage is being renewed
    - [ PowIs Project for Education!2018](https://jackiegreenwifi.github.io/jackiewiki/page3.html)    
    - [ PowIs Project 2017-2018](https://jackiegreenwifi.github.io/jackiewiki/page1.html)  
  
+ <b>
  <font size="3" color="#ff00ff">
 Contact
-</font>
+</font><b>
 **Email: rui.space@protonmail.ch**
 **Twitter: @RuiMST
 
