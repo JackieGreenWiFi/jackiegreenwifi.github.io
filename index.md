@@ -4,7 +4,7 @@ Rui's Vlog
 </title> 
 # Rui
 **I'm here**
-	<span style="font-size:16pt; border: 1px red solid; padding: 4px;">Homepage is being renewed</span
+	<span style="font-size:16pt; border: 1px red solid; padding: 4px;">Homepage is being renewed</span>      
 
 
 **Past activities and Projects**
