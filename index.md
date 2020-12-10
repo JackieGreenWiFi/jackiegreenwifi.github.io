@@ -4,6 +4,9 @@ Rui's HOMEPAGE
 # Rui
 ### I'm here
 
+<font size="15" color="red">
+Homepage is being renewed
+</font>
 ---
 **Past activities and Projects**
 - [Past activities](page1.md)
