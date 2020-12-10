@@ -6,12 +6,6 @@ Rui's HOMEPAGE
 <!--
 ![hello](1.jpeg) 
 
-<center>
-<img src="1.jpeg" width="30%" hight="30%">
- </center>-->
-![HELLO](10.png)
-
-
  
 ---
 **Rui**
@@ -28,13 +22,11 @@ I am interested in social issues and am working on solving them using technology
 
 
 
----
 
 **Past activities and Projects**
 - [Past activities](page1.md)
 - [Projects](https://jackiegreenwifi.github.io/jackiewiki/)
   
----
 **Contact**  
 Email: rui.space@protonmail.ch
 
