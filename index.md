@@ -24,8 +24,8 @@ Homepage is being renewed
  <font size="3" color="#ff00ff">
 Contact
 </font><b>
-**Email: rui.space@protonmail.ch**
-**Twitter: @RuiMST
+**Email: rui.space@protonmail.ch**  
+**Twitter: @RuiMST**
 
 
 There are Photo→
