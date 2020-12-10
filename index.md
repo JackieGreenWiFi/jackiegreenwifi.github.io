@@ -23,7 +23,7 @@ Homepage is being renewed
  <b>
  <font size="3" color="#ff00ff">
 Contact
-</font><b>
+</font></b>
 **Email: rui.space@protonmail.ch**  
 **Twitter: @RuiMST**
 
