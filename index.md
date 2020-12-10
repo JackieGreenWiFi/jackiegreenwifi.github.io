@@ -8,7 +8,7 @@ Rui's Vlog
 <font size="15" color="red">
 Homepage is being renewed
 </font>
----
+
 **Past activities and Projects**
 - [Past activities](page1.md)
 - [Projects](https://jackiegreenwifi.github.io/jackiewiki/)
