@@ -2,9 +2,12 @@
 <title>
 Rui's Vlog
 </title> 
+<span style="font-size:16pt; border: 1px red solid; padding: 4px;">Homepage is being renewed</span>                      
+
+
 # Rui
 **I'm here**  
-	<span style="font-size:16pt; border: 1px red solid; padding: 4px;">Homepage is being renewed</span>      
+      
 
 
 **Past activities and Projects**
