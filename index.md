@@ -27,6 +27,7 @@ Homepage is being renewed
 </font>
 **Email: rui.space@protonmail.ch**  
 **Twitter: @RuiMST**
+**Vlog: https://jackiegreen.hatenablog.com/
 
 
 There are Photo→
