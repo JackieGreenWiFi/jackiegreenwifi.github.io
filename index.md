@@ -23,12 +23,10 @@ Rui's Vlog
  
  <br>
 
- <font size="3" color="#ff00ff">
-<b>Contact</b>
-</font>
-**Email: rui.space@protonmail.ch**  
-**Twitter: @RuiMST**  
-**Vlog**: [https://jackiegreen.hatenablog.com/](https://jackiegreen.hatenablog.com/)
+**Contact**  
+Email: rui.space@protonmail.ch  
+Twitter: @RuiMST  
+Vlog: [https://jackiegreen.hatenablog.com/](https://jackiegreen.hatenablog.com/)
 
 
 There are Photo→
