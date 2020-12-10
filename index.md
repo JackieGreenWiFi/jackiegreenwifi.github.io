@@ -16,11 +16,11 @@ Homepage is being renewed
 About Projects Page  
 </font>
 
-   - Book Spot in Cambodia(JO SPOT for Education)2019-2020
+   - Book Spot in Cambodia(JO SPOT for Education)2019-2020 <br>
      (https://jackiegreenwifi.github.io/jackiewiki/page6.html)
-   - [ JO SPOT in Tokyo 2018-2019](https://jackiegreenwifi.github.io/jackiewiki/page2.md)  
-   - [ PowIs Project for Education!2018](https://jackiegreenwifi.github.io/jackiewiki/page3.md)    
-   - [ PowIs Project 2017-2018](https://jackiegreenwifi.github.io/jackiewiki/page1.md)  
+   - [ JO SPOT in Tokyo 2018-2019](https://jackiegreenwifi.github.io/jackiewiki/page2.html)  
+   - [ PowIs Project for Education!2018](https://jackiegreenwifi.github.io/jackiewiki/page3.html)    
+   - [ PowIs Project 2017-2018](https://jackiegreenwifi.github.io/jackiewiki/page1.html)  
   
 **Contact**  
 Email: rui.space@protonmail.ch
