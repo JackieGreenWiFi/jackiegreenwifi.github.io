@@ -5,14 +5,14 @@ Rui's Vlog
 <span style="font-size:16pt; border: 1px red solid; padding: 4px;">Homepage is being renewed</span>                      
 
 
-# I'm here, Rui
+# I'm here, Rui      
 
-      
+**NEWS**      
 
 
 **Past activities and Projects**
 - [Past activities](page1.md)
-- [Projects](https://jackiegreenwifi.github.io/jackiewiki/)
+- [Projects](https://jackiegreenwifi.github.io/jackiewiki/)  
 
 <br>
 **About Projects**
