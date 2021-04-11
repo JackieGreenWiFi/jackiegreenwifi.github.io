@@ -25,14 +25,13 @@ Rui's Vlog
 
 **Contact**  
 Email: rui.space@protonmail.ch  
-Twitter: @RuiMST  
-Vlog: [https://jackiegreen.hatenablog.com/](https://jackiegreen.hatenablog.com/)
 
 
 There are Photo→
    [PHOTO](page5.md)
-
-
+   
+***
+**Last updated: April 11, 2021**
 
 
 
