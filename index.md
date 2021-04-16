@@ -12,7 +12,7 @@ Rui's Vlog
 
 **Past activities and Projects**
 - [Past activities](page1.md)
-- [Projects](https://jackiegreenwifi.github.io/info.xyz.github.io/abc/)  
+- [Projects](https://jackiegreenwifi.github.io/info.xyz.github.io/abc.github.io/)  
 
 <br>
 **About Projects**
